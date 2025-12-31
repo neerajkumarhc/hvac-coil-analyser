@@ -1,5 +1,5 @@
 {
-  "name": "hvac-coil-analyser",
+  "name": "hvacanalyser",
   "compatibility_date": "2025-12-31",
 
   // Worker entrypoint (your proxy)
@@ -9,4 +9,5 @@
   "assets": {
     "directory": "./public" 
   }
+
 }
